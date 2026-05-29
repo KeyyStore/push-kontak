@@ -12,7 +12,7 @@
 
 ╭──❒ <b></b>SEMUA MENU BOT</b><br>
 │<br>
-├• <b>[ PUSH KONTAK ]</b><br>
+├• <b>[ Sv keyystore]</b><br>
 ├• 📌 #pushkontak [text]<br>
 ├• 📌 #pushid [idgroup|text]<br>
 ├• 📌 #pushimg [idgroup|caption]<br>
